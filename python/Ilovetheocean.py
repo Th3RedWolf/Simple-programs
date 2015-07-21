@@ -12,4 +12,4 @@ print persian_cat
 print backlash_cat
 print fat_cat
 
-input() 
+input() #why do you have input() at the end of all your files? 

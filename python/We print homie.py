@@ -1,5 +1,9 @@
 print "Mary had a little lamb"
 print "Its fleece was was as %s." % 'snow'
+
+#you can also concatenate words like this:
+print "Its fleece was white as " + "snow"
+
 print "And everywhere that Mary went."
 print "." *10 #this is totally a loop right?
 

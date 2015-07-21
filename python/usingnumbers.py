@@ -1,3 +1,6 @@
+#same thing about naming files. typically you don't want all lowercase
+#because that can get hard to read for thisisareallylongfilename.py
+
 print "I will now count my chickens:"
 
 print "hens", 25+30/6
