@@ -7,4 +7,4 @@ weight= raw_input()
 
 print "so you're %r years old, %r inches tall and %r lbs" %(age,height,weight)
 
-input() 
+input()
